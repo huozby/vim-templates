@@ -1,7 +1,8 @@
 # Vim Skeleton Templates
+```
 Learn from https://github.com/IllyaStarikov/skeleton-files
            http://vim.wikia.com/wiki/Use_eval_to_create_dynamic_templates
-
+```
 
 # Add the following in your ~/.vimrc file
 ```
