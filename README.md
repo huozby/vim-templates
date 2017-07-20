@@ -1,6 +1,6 @@
 # Vim Skeleton Templates
-# Learn form https://github.com/IllyaStarikov/skeleton-files/commits/master
-#            http://vim.wikia.com/wiki/Use_eval_to_create_dynamic_templates
+Learn from https://github.com/IllyaStarikov/skeleton-files
+           http://vim.wikia.com/wiki/Use_eval_to_create_dynamic_templates
 
 
 # Add the following in your ~/.vimrc file
